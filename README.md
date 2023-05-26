@@ -1,3 +1,7 @@
-# realtime_object_detection
+# realtime_speed_bumps_detection
 
-in refrence to tutorial: https://youtu.be/zs43IrWTzB0
+réalisé par :
+Kriat Yassine
+Sadik Marouane
+Oubelkas Fatima
+Labaalli Mahjouba
